@@ -11,8 +11,8 @@ Prof. Ms. Fábio Henrique Cabrini
 + Gustavo Duarte Bezerra da Silva, RM99774
 + Henrique Batista de Souza, RM99742
 
-### Objetivo:
-Código criado para realizar uma série de comandos para controlar o Docker Engine de uma forma mais simplificada
+### Sobre:
+Código criado para realizar uma série de comandos para controlar o Docker Engine de uma forma mais simplificada, infelizmente não conseguimos estabelecer esse controle entre duas máquinas, então deixamos para funcionamento local
 
 ### Especificações da VM:
 + RAM: 3GB
